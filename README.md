@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Supriya Sudini</h1>
 <h3 align="center">
 
- 🚀 Full Stack Web Developer | Web Enthusiast 🌐 | Master's in Computer Information Systems📚 | Cognizant Alum | Experienced in JavaScript| React.js | MongoDB | Node.js | Java | SQL | Open to New Opportunities✨
+ 🚀 Full Stack Web Developer | Web Enthusiast 🌐 | Master's in Computer Information Systems📚 | Cognizant Alum | Experienced in JavaScript | React.js | MongoDB | Node.js | Java | SQL | Open to New Opportunities✨
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=supriyasudini&label=Profile%20views&color=0e75b6&style=flat" alt="supriyasudini" /> </p>
