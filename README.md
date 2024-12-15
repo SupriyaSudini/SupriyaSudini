@@ -2,7 +2,7 @@
 <h3 align="center">
 
  🚀 Full Stack Web Developer                                                                                      
-                      Experienced in JavaScript | React.js | MongoDB | Node.js | Java | SQL |                 
+                      Experienced in JavaScript | React.js | MongoDB | Node.js | Java | .NET | C# | SQL |                 
  Open to New Opportunities✨
 </h3>
 
